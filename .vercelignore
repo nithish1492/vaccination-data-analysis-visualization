@@ -1,0 +1,14 @@
+# Keep deployment bundle focused on the live FastAPI portal.
+data/*.xlsx
+data/*.docx
+docs/
+scripts/
+sql/
+powerbi/
+vaccination_final.db
+__pycache__/
+**/__pycache__/
+*.pyc
+README.md
+.gitignore
+.env
